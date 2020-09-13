@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C3_BT3_Client\bin\Debug\C3_BT3_Client.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C3_BT3_Client\bin\Debug\C3_BT3_Client.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C3_BT3_Client\obj\x86\Debug\C3_BT3_Client.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C3_BT3_Client\obj\x86\Debug\C3_BT3_Client.pdb

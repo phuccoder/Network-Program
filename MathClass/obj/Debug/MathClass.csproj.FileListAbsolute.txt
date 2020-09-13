@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MathClass\bin\Debug\MathClass.dll
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MathClass\obj\Debug\MathClass.dll
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MathClass\obj\Debug\MathClass.pdb

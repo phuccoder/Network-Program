@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\chatserver\chatclient\bin\Debug\chatclient.exe
+C:\Users\Admin\Desktop\chatserver\chatclient\bin\Debug\chatclient.pdb
+C:\Users\Admin\Desktop\chatserver\chatclient\obj\x86\Debug\chatclient.Form1.resources
+C:\Users\Admin\Desktop\chatserver\chatclient\obj\x86\Debug\chatclient.Properties.Resources.resources
+C:\Users\Admin\Desktop\chatserver\chatclient\obj\x86\Debug\chatclient.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\chatserver\chatclient\obj\x86\Debug\chatclient.exe
+C:\Users\Admin\Desktop\chatserver\chatclient\obj\x86\Debug\chatclient.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\bin\Debug\chatclient.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\bin\Debug\chatclient.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Client\obj\x86\Debug\chatclient.csproj.GenerateResource.Cache

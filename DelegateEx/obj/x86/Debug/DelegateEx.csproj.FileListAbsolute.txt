@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateEx\bin\Debug\DelegateEx.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateEx\bin\Debug\DelegateEx.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateEx\obj\x86\Debug\DelegateEx.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateEx\obj\x86\Debug\DelegateEx.pdb

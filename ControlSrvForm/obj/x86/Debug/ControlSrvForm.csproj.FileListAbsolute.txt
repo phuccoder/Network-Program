@@ -1,0 +1,7 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\bin\Debug\ControlSrvForm.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\bin\Debug\ControlSrvForm.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\obj\x86\Debug\ControlSrvForm.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\obj\x86\Debug\ControlSrvForm.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\obj\x86\Debug\ControlSrvForm.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\obj\x86\Debug\ControlSrvForm.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\ControlSrvForm\obj\x86\Debug\ControlSrvForm.pdb

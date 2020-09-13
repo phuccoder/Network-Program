@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailTest2\bin\Debug\MailTest2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailTest2\bin\Debug\MailTest2.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailTest2\obj\x86\Debug\MailTest2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailTest2\obj\x86\Debug\MailTest2.pdb

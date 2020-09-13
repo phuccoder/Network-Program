@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateExample\obj\x86\Debug\DelegateExample.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\DelegateExample\obj\x86\Debug\DelegateExample.pdb

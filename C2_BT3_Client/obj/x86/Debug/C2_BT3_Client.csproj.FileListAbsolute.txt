@@ -1,0 +1,5 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C2_BT3_Client\bin\Debug\C2_BT3_Client.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C2_BT3_Client\bin\Debug\C2_BT3_Client.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C2_BT3_Client\obj\x86\Debug\C2_BT3_Client.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C2_BT3_Client\obj\x86\Debug\C2_BT3_Client.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C2_BT3_Client\obj\x86\Debug\C2_BT3_Client.csprojResolveAssemblyReference.cache

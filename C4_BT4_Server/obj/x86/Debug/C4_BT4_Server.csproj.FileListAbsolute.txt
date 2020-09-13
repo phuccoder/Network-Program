@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C4_BT4_Server\bin\Debug\C4_BT4_Server.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C4_BT4_Server\bin\Debug\C4_BT4_Server.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C4_BT4_Server\obj\x86\Debug\C4_BT4_Server.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C4_BT4_Server\obj\x86\Debug\C4_BT4_Server.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailAttachTest2\bin\Debug\MailAttachTest2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailAttachTest2\bin\Debug\MailAttachTest2.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailAttachTest2\obj\x86\Debug\MailAttachTest2.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailAttachTest2\obj\x86\Debug\MailAttachTest2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\MailAttachTest2\obj\x86\Debug\MailAttachTest2.pdb

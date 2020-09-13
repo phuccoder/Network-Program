@@ -1,0 +1,9 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\CheckPing\bin\Debug\CheckPing.exe.config
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\bin\Debug\CheckPing.exe.config
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\bin\Debug\CheckPing.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\bin\Debug\CheckPing.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\obj\Debug\CheckPing.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\obj\Debug\CheckPing.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\obj\Debug\CheckPing.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\obj\Debug\CheckPing.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\CheckPing\obj\Debug\CheckPing.pdb

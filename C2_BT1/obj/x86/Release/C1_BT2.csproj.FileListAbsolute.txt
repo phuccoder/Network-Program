@@ -1,0 +1,4 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C1_BT2\bin\Release\C1_BT2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C1_BT2\bin\Release\C1_BT2.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C1_BT2\obj\x86\Release\C1_BT2.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\C1_BT2\obj\x86\Release\C1_BT2.pdb

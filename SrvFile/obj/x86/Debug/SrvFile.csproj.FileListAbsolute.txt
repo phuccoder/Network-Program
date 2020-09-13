@@ -1,0 +1,7 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\bin\Debug\SrvFile.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\bin\Debug\SrvFile.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\obj\x86\Debug\SrvFile.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\obj\x86\Debug\SrvFile.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\obj\x86\Debug\SrvFile.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\obj\x86\Debug\SrvFile.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\SrvFile\obj\x86\Debug\SrvFile.pdb

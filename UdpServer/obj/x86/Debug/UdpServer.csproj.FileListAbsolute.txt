@@ -1,0 +1,14 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\obj\x86\Debug\UdpServer.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\obj\x86\Debug\UdpServer.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\obj\x86\Debug\UdpServer.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\obj\x86\Debug\UdpServer.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\nguyenhoangphuc_udp\UdpServer\obj\x86\Debug\UdpServer.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\bin\Debug\UdpServer.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\obj\x86\Debug\UdpServer.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\obj\x86\Debug\UdpServer.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\obj\x86\Debug\UdpServer.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\obj\x86\Debug\UdpServer.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\UdpServer\obj\x86\Debug\UdpServer.pdb

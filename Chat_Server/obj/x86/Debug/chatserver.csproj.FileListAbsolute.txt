@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\chatserver\chatserver\bin\Debug\chatserver.exe
+C:\Users\Admin\Desktop\chatserver\chatserver\bin\Debug\chatserver.pdb
+C:\Users\Admin\Desktop\chatserver\chatserver\obj\x86\Debug\chatserver.exe
+C:\Users\Admin\Desktop\chatserver\chatserver\obj\x86\Debug\chatserver.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Server\obj\x86\Debug\chatserver.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Server\obj\x86\Debug\chatserver.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Server\bin\Debug\chatserver.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Server\bin\Debug\chatserver.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\Chat_Server\obj\x86\Debug\chatserver.csprojResolveAssemblyReference.cache

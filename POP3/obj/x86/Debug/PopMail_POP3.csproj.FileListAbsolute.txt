@@ -1,0 +1,9 @@
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\bin\Debug\POP3.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\bin\Debug\POP3.pdb
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\PopMail_POP3.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\POP3.Form1.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\POP3.Properties.Resources.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\POP3.SMTP.resources
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\PopMail_POP3.csproj.GenerateResource.Cache
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\POP3.exe
+C:\Users\Nguyen Hoang Phuc\Desktop\OnTap\POP3\obj\x86\Debug\POP3.pdb
